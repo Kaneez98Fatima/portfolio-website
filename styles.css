@@ -95,6 +95,12 @@ h2 {
   text-align: left;
 }
 
+.img {
+  background-image: url("./images/header-image.png");
+  background-position: right bottom -50%;
+  background-repeat: no-repeat;
+}
+
 .icon {
   color: #dbd8d7;
   font-size: 20px;
