@@ -50,7 +50,7 @@
 
 .img {
   background-image: url("./images/header-image.png");
-  background-position: right bottom -20%;
+  background-position: right bottom -50%;
   background-repeat: no-repeat;
 }
 
@@ -93,12 +93,6 @@ h2 {
   font-weight: 400;
   line-height: 24px;
   text-align: left;
-}
-
-.img {
-  background-image: url("./images/header-image.png");
-  background-position: right bottom -50%;
-  background-repeat: no-repeat;
 }
 
 .icon {
