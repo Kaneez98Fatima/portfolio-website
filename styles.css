@@ -79,12 +79,11 @@ h2 {
   color: #fff5e1;
   font-family: "Roboto", sans-serif;
   font-weight: 700;
-  font-size: 20px;
+  font-size: 25px;
   line-height: 32px;
   display: flex;
   align-items: center;
   margin-bottom: 10px;
-  font-size: 25px;
 }
 
 .paragraph {
