@@ -14,7 +14,7 @@
 
 ## Live Preview 
 
-[Live Demo Link](https://kaneez98fatima.github.io/portfolio_website/)
+[Live Demo Link](https://kaneez98fatima.github.io/portfolio-website/)
 
 
 ## Author
